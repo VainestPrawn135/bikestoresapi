@@ -7,10 +7,12 @@ Hasta ahora solo permite puras consultas como:
 *  Obtener todos los productos
 *  Obtener producto por ID
 *  Obtener a los staffs o los que atienden en las tiendas
-*  Staffs por ID
+*  Obtener staffs por ID
 *  Obtener todas las tiendas
 *  Obtener tiendas por ID
-*  Todas las ordenes o orden por ID
+*  Obtener todas las ordenes
+*  Obtener orden por ID
+*  Consulta de inventario
 
 La base de datos está adjuntada en un zip en scripts de SQL Server 2022
 
